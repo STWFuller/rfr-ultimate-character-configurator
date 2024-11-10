@@ -3,6 +3,7 @@ import { Canvas } from "@react-three/fiber";
 
 function App() {
  return (<>
+  <UI />
   <Canvas
     camera={{
       position: [3, 3, 3],
