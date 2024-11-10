@@ -64,7 +64,7 @@ export const UI = () => {
                     <DownloadButton />  
                 </div>
                 <div className="flex flex-col gap-6">
-                    <Assetbox />
+                    <AssetsBox />
                 </div>  
             </div>
         </main>
