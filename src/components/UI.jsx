@@ -72,7 +72,7 @@ export const UI = () => {
             className="pointer-events-auto"
             href="https://lessons.wawasensei.dev/courses/react-three-fiber"
           >
-            <img className="w-20" src="/images/wawasensei-white.png" />
+            <img className="w-20" src="/images/logo-121x121.jpg" />
           </a>
           <DownloadButton />
         </div>
